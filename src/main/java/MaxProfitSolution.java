@@ -1,5 +1,5 @@
 
-public class maxProfitSolution {
+public class MaxProfitSolution {
     public int maxProfit(int[] prices) {
         int res = 0;
         int len = prices.length;

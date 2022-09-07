@@ -1,7 +1,4 @@
-import java.util.Arrays;
-import java.util.stream.IntStream;
-
-public class removeDuplicatesSolution {
+public class RemoveDuplicatesSolution {
     public int removeDuplicates(int[] nums) {
         int currentIndex = 1;
         int currentNum = nums[0];

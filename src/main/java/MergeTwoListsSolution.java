@@ -1,6 +1,4 @@
-import com.sun.org.apache.bcel.internal.generic.RETURN;
-
-public  class mergeTwoListsSolution {
+public  class MergeTwoListsSolution {
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if(list1 == null && list2 == null){
             return null;
